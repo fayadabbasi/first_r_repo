@@ -5,3 +5,5 @@ library(Lahman)
 allstar <- Lahman::AllstarFull
 
 glimpse(allstar)
+
+a <- dim(allstar)
