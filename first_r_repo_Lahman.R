@@ -7,3 +7,4 @@ allstar <- Lahman::AllstarFull
 glimpse(allstar)
 
 a <- dim(allstar)
+b <- Lahman::Appearances
